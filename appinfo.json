@@ -1,0 +1,214 @@
+{
+    "appKeys": {
+        "bluetoothvibe": 1,
+        "hourlyvibe": 2,
+        "icon": 0,
+        "temperature": 3
+    },
+    "capabilities": [
+        "location",
+        "configurable"
+    ],
+    "companyName": "chops",
+    "longName": "cars",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/CARS-MENU.png",
+                "menuIcon": true,
+                "name": "IMAGE_MENU_ICON",
+                "targetPlatforms": [
+                    "basalt"
+                ],
+                "type": "png"
+            },
+            {
+                "file": "images/roads-bg3.png",
+                "name": "IMAGE_BACKGROUND",
+                "type": "png"
+            },
+            {
+                "characterRegex": "[0-9:. ]",
+                "file": "fonts/Aero Matics Regular.ttf",
+                "name": "FONT_CUSTOM_38",
+                "type": "font"
+            },
+            {
+                "file": "images/cars-BTOFF.png",
+                "name": "IMAGE_DISCONNECT",
+                "type": "png"
+            },
+            {
+                "file": "images/cars-bton.png",
+                "name": "IMAGE_CONNECT",
+                "type": "png"
+            },
+            {
+                "file": "images/timeline-w18-bw.png",
+                "name": "RAIN",
+                "type": "png"
+            },
+            {
+                "file": "images/timeline-w-FOG-bw.png",
+                "name": "FOG",
+                "type": "png"
+            },
+            {
+                "file": "images/timeline-w23-bw.png",
+                "name": "SNOW",
+                "type": "png"
+            },
+            {
+                "file": "images/timeline-batt-60-bw.png",
+                "name": "IMAGE_BATT_60",
+                "type": "png"
+            },
+            {
+                "file": "images/timeline-w13-bw.png",
+                "name": "HAZE",
+                "type": "png"
+            },
+            {
+                "file": "images/timeline-batt-80-bw.png",
+                "name": "IMAGE_BATT_80",
+                "type": "png"
+            },
+            {
+                "file": "images/timeline-w9-bw.png",
+                "name": "PARTLY_CLOUDY_NIGHT",
+                "type": "png"
+            },
+            {
+                "file": "images/timeline-batt-50-bw.png",
+                "name": "IMAGE_BATT_50",
+                "type": "png"
+            },
+            {
+                "file": "images/timeline-w7-bw.png",
+                "name": "COLD",
+                "type": "png"
+            },
+            {
+                "file": "images/timeline-w14-bw.png",
+                "name": "CLOUD",
+                "type": "png"
+            },
+            {
+                "file": "images/timeline-w24-bw.png",
+                "name": "HAIL",
+                "type": "png"
+            },
+            {
+                "file": "images/block1-bw.png",
+                "name": "IMAGE_BLOCK1",
+                "type": "png"
+            },
+            {
+                "file": "images/1X1_BG.png",
+                "name": "IMAGE_BATT_10",
+                "type": "png"
+            },
+            {
+                "file": "images/timeline-w25-bw.png",
+                "name": "CLOUDY",
+                "type": "png"
+            },
+            {
+                "file": "images/timeline-batt-40-bw.png",
+                "name": "IMAGE_BATT_40",
+                "type": "png"
+            },
+            {
+                "file": "images/timeline-batt-70-bw.png",
+                "name": "IMAGE_BATT_70",
+                "type": "png"
+            },
+            {
+                "file": "images/timeline-w27-bw.png",
+                "name": "STORM",
+                "type": "png"
+            },
+            {
+                "file": "images/timeline-w2-bw.png",
+                "name": "CLEAR_DAY",
+                "type": "png"
+            },
+            {
+                "file": "images/timeline-wNA-bw.png",
+                "name": "NA",
+                "type": "png"
+            },
+            {
+                "file": "images/timeline-batt-100-bw.png",
+                "name": "IMAGE_BATT_100",
+                "type": "png"
+            },
+            {
+                "file": "fonts/Planer_Reg.ttf",
+                "name": "FONT_CUSTOM_18",
+                "type": "font"
+            },
+            {
+                "file": "fonts/Planer_Reg.ttf",
+                "name": "FONT_CUSTOM_14",
+                "type": "font"
+            },
+            {
+                "file": "images/timeline-w6-bw.png",
+                "name": "WINDY",
+                "type": "png"
+            },
+            {
+                "file": "images/box2.png",
+                "name": "IMAGE_BLOCK2",
+                "type": "png"
+            },
+            {
+                "file": "images/timeline-w8-bw.png",
+                "name": "PARTLY_CLOUDY_DAY",
+                "type": "png"
+            },
+            {
+                "file": "images/timeline-batt-30-bw.png",
+                "name": "IMAGE_BATT_30",
+                "type": "png"
+            },
+            {
+                "file": "images/box3.png",
+                "name": "IMAGE_BLOCK3",
+                "type": "png"
+            },
+            {
+                "file": "images/timeline-batt-20-bw.png",
+                "name": "IMAGE_BATT_20",
+                "type": "png"
+            },
+            {
+                "file": "images/timeline-charge3.png",
+                "name": "IMAGE_BATT_CHARGING",
+                "type": "png"
+            },
+            {
+                "file": "images/timeline-w3-bw.png",
+                "name": "CLEAR_NIGHT",
+                "type": "png"
+            },
+            {
+                "file": "images/timeline-batt-90-bw.png",
+                "name": "IMAGE_BATT_90",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "cars",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "48f07128-abc0-4c3a-9782-65e06d86b22c",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
